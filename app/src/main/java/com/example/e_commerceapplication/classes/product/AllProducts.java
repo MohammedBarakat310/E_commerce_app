@@ -1,7 +1,5 @@
 package com.example.e_commerceapplication.classes.product;
-
 import com.example.e_commerceapplication.general.enums.ProductType;
-
 import java.io.Serializable;
 
 public class AllProducts extends Product implements Serializable {
