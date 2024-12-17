@@ -26,7 +26,7 @@ import com.example.e_commerceapplication.ui.products.PaymentActivity;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
-
+//Cart Fragment 
 public class CartFragment extends Fragment {
     List<MyCart> list;
     MyCartAdapter adapter;
