@@ -5,14 +5,12 @@ public class User {
     double paymentRate;
     public User() {
     }
-
     public User(String username, String email, String password, double paymentRate) {
         this.username = username;
         this.email = email;
         this.password = password;
         this.paymentRate = paymentRate;
     }
-
     public String getUserID() {
         return userID;
     }
